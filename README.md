@@ -1,6 +1,8 @@
 # FERRONETWORK
 Projecte Intermodular 26-27 
 
+Santi Osella SMX2C INS PALAMÓS
+
 Context:
 El projecte consisteix a simular una xarxa empresarial que connecti dues seus situades en diferents països, permetent als usuaris compartir informació i comunicar-se de manera segura
 Per aconseguir-ho, es crearà una intranet accessible únicament mitjançant VPN, amb una pàgina web funcional, un servidor de correu electrònic i una plataforma de comunicació similar a Slack (workspace)
