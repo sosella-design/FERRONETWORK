@@ -1,5 +1,5 @@
 # FERRONETWORK
-Projecte Intermodular
+Projecte Intermodular 26-27 
 
 Context:
 El projecte consisteix a simular una xarxa empresarial que connecti dues seus situades en diferents països, permetent als usuaris compartir informació i comunicar-se de manera segura.
