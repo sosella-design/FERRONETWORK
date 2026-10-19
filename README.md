@@ -8,12 +8,12 @@ També s'implementaran serveis com proxy, bases de dades i firewall, garantint e
 
 
 Abast: 
-  Xarxa privada: connexió entre dues seus mitjançant servidors
-  VPN: accés remot segur amb ZeroTier o WireGuard
-  Intranet: pàgina web funcional accessible només mitjançant VPN
-  Servidor de correu: creació de diversos comptes per als usuaris
-  Comunicació tipus Slack: espai de treball per intercanviar missatges i fitxers
-  Base de dades: emmagatzematge de la informació dels usuaris
-  Proxy i firewall: control i protecció de les connexions
-  Seguretat: xifratge de les comunicacions i control d'accessos
-  Pentesting: realització de proves de hacking per detectar vulnerabilitats i comprovar la seguretat de la xarxa
+ - Xarxa privada: connexió entre dues seus mitjançant servidors
+ - VPN: accés remot segur amb ZeroTier o WireGuard 
+ - Intranet: pàgina web funcional accessible només mitjançant VPN
+ - Servidor de correu: creació de diversos comptes per als usuaris
+ - Comunicació tipus Slack: espai de treball per intercanviar missatges i fitxers
+ - Base de dades: emmagatzematge de la informació dels usuaris
+ - Proxy i firewall: control i protecció de les connexions
+ - Seguretat: xifratge de les comunicacions i control d'accessos
+ - Pentesting: realització de proves de hacking per detectar vulnerabilitats i comprovar la seguretat de la xarxa
