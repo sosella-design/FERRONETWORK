@@ -1,5 +1,4 @@
-# FERRONETWORK
-Projecte Intermodular 26-27 
+# FERRONETWORK Projecte Intermodular 26-27 
 
 Santi Osella SMX2C INS PALAMÓS
 
